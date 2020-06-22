@@ -1,5 +1,5 @@
 class Preference < ActiveRecord::Base
-    def index 
 
+    def index 
     end
 end
